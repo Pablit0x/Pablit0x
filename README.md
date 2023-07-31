@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact **In the summer, you'll find me deep into geeky coding adventures, but once winter arrives, I swap my keyboard for skis and hit the slopes! 🎿**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
