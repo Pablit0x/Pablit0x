@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">I am an ambitious and self-driven Mobile App Developer.</h3>
 
-- 🔭 I’m currently working on [BlueChat](https://github.com/Pablit0x/BlueChat)
+- 🔭 I’m currently working on [BlueChat](https://github.com/Pablit0x/BlueChat) and [Wear OS Timer & Stop Watch](https://github.com/Pablit0x/WearOsStopWatch) 
 
 - 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Wear OS, WorkManager**
 
