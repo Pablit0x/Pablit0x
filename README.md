@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BlueChat](https://github.com/Pablit0x/BlueChat) and [Wear OS Timer & Stop Watch](https://github.com/Pablit0x/WearOsStopWatch) 
 
-- 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Wear OS, WorkManager and Bluetooth/Bluetooth LE**
+- 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Wear OS, WorkManager and Bluetooth / Bluetooth LE**
 
 - 💬 Ask me about **Jetpack Compose, ConnectionService API**
 
