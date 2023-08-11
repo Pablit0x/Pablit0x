@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">I am an ambitious and self-driven Mobile App Developer.</h3>
 
-- 🔭 I’m currently working on [BlueChat](https://github.com/Pablit0x/BlueChat) and [Wear OS Timer & Stop Watch](https://github.com/Pablit0x/WearOsStopWatch) 
+- 🔭 I’m currently working on [AndroidGPT](https://github.com/Pablit0x/AndroidGPT) and [BlueChat](https://github.com/Pablit0x/BlueChat)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Wear OS, WorkManager and Bluetooth / Bluetooth LE**
+- 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Wear OS, Mango DB and Bluetooth / Bluetooth LE**
 
 - 💬 Ask me about **Jetpack Compose, ConnectionService API**
 
