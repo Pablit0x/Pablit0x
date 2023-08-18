@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [AndroidGPT](https://github.com/Pablit0x/AndroidGPT) and [BlueChat](https://github.com/Pablit0x/BlueChat)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform Mobile, Wear OS, Mango DB and Bluetooth / Bluetooth LE**
+- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Wear OS, Mango DB and Bluetooth / Bluetooth LE**
 
-- 💬 Ask me about **Jetpack Compose, ConnectionService API**
+- 💬 Ask me about **Jetpack Compose**
 
 - 📫 How to reach me **szymanskip.1998@gmail.com**
 
