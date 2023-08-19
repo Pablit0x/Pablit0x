@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [AndroidGPT](https://github.com/Pablit0x/AndroidGPT) and [BlueChat](https://github.com/Pablit0x/BlueChat)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Wear OS, Mango DB and Bluetooth / Bluetooth LE**
+- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Jetpack Compose Charts, Mango DB and Bluetooth / Bluetooth LE**
 
 - 💬 Ask me about **Jetpack Compose**
 
