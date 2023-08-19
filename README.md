@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 <h3 align="center">I am an ambitious and self-driven Mobile App Developer.</h3>
 
-- 🔭 I’m currently working on [AndroidGPT](https://github.com/Pablit0x/AndroidGPT) and [BlueChat](https://github.com/Pablit0x/BlueChat)
+- 🔭 I’m currently working on [AndroidGPT](https://github.com/Pablit0x/AndroidGPT), [BlueChat](https://github.com/Pablit0x/BlueChat) and [GraphPlayground](https://github.com/Pablit0x/GraphPlayground)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Jetpack Compose Charts, Mango DB and Bluetooth / Bluetooth LE**
 
