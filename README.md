@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, revisiting Firebase Authentication, Firestore and Firebase authentication**
+- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, revisiting Firebase Authentication, Firestore and Firebase authentication**
 
 - 💬 Ask me about **Jetpack Compose**
 
