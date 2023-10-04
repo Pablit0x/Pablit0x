@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [We Friends](https://github.com/Pablit0x/WeFriends)
 
-- ✅ I've just completed my work on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels)
+- ✅ I've recently finished working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, and Testing....**
 
