@@ -5,7 +5,7 @@
 
 - ✅ I've recently finished working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels)
 
-- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, and Testing....**
+- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, and MVI....**
 
 - 💬 Ask me about **Jetpack Compose**
 
