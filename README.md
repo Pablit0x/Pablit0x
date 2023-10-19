@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Paweł</h1>
+<div align="center">
+  <img src="https://github.com/Pablit0x/Pablit0x/assets/76017191/9d7e3364-4fbc-46bc-b06d-c3eb48d83922" width="75" height="75">
+  <div style="display: inline-block; vertical-align: middle;">
+    <h1>Hi 👋, I'm Paweł</h1>
+    <h3>I am an ambitious and self-driven Mobile App Developer</h3>
+  </div>
+</div>
 
 <h3 align="center">I am an ambitious and self-driven Mobile App Developer</h3>
 
@@ -14,7 +20,6 @@
 
 - ⚡ Fun fact **In the summer, you'll find me deep into geeky coding adventures, but once winter arrives, I swap my keyboard for skis and hit the slopes! 🎿**
 
-  <img src="https://github.com/Pablit0x/Pablit0x/assets/76017191/9d7e3364-4fbc-46bc-b06d-c3eb48d83922" width="200" height="200">
 
 
 
