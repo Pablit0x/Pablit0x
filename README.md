@@ -14,5 +14,8 @@
 
 - ⚡ Fun fact **In the summer, you'll find me deep into geeky coding adventures, but once winter arrives, I swap my keyboard for skis and hit the slopes! 🎿**
 
+  <img src="https://github.com/Pablit0x/Pablit0x/assets/76017191/9d7e3364-4fbc-46bc-b06d-c3eb48d83922" width="200" height="200">
+
+
 
 </p>
