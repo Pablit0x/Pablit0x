@@ -1,4 +1,4 @@
-g<div align="center">
+<div align="center">
   <img src="https://github.com/Pablit0x/Pablit0x/assets/76017191/9d7e3364-4fbc-46bc-b06d-c3eb48d83922" width="75" height="75">
     <h1>Hi 👋, I'm Paweł</h1>
 </div>
