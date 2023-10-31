@@ -3,7 +3,7 @@
     <h1>Hi 👋, I'm Paweł</h1>
 </div>
 
-<h3 align="center">I am an ambitious and self-driven Mobile App Developer</h3>
+<h3 align="center">10x Android Developer</h3>
 
 - 🔭 I’m currently working on [We Friends](https://github.com/Pablit0x/WeFriends)
 
