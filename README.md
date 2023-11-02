@@ -5,9 +5,7 @@
 
 <h3 align="center">10x Android Developer</h3>
 
-- 🔭 I’m currently working on [We Friends](https://github.com/Pablit0x/WeFriends)
-
-- ✅ I've recently finished working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels)
+- 🔭 I’m currently working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels) && [We Friends](https://github.com/Pablit0x/WeFriends) 
 
 - 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, and MVI, WorkManager...**
 
