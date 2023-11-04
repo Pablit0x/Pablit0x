@@ -11,13 +11,11 @@
 
 - 💬 Ask me about **Jetpack Compose**
 
-- 📫 How to reach me:
-  Email **pszymanski.code@gmail.com**
-  LinkedIn **www.linkedin.com/in/pscode**
+- 📫 How to reach me **pszymanski.code@gmail.com**
 
 - ⚡ Fun fact **In the summer, you'll find me deep into geeky coding adventures, but once winter arrives, I swap my keyboard for skis and hit the slopes! 🎿**
 
 
+### Connect with Me on LinkedIn
 
-
-</p>
+**www.linkedin.com/in/pscode**
