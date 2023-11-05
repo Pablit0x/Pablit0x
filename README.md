@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels) and [We Friends](https://github.com/Pablit0x/WeFriends) 
 
-- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, and MVI, WorkManager...**
+- 🌱 I’m currently learning **Kotlin Multiplatform (KMP), Mango DB, Figma, MVI and WorkManager...**
 
 - 💬 Ask me about **Jetpack Compose**
 
