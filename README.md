@@ -16,6 +16,6 @@
 - ⚡ Fun fact **In the summer, you'll find me deep into geeky coding adventures, but once winter arrives, I swap my keyboard for skis and hit the slopes! 🎿**
 
 
-### Connect with Me on LinkedIn
+**Connect with Me on LinkedIn**
 
 **www.linkedin.com/in/pscode**
