@@ -3,7 +3,7 @@
     <h1>Hi 👋, I'm Paweł</h1>
 </div>
 
-<h3 align="center">10x Android Developer</h3>
+<h3 align="center">Android Developer</h3>
 
 - 🔭 I’m currently working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels) and [We Friends](https://github.com/Pablit0x/WeFriends) 
 
