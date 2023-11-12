@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pszymanski.code@gmail.com**
 
-- ⚡ **If my hands aren't on a keyboard, they're either gripping ski poles or gym equipment.**
+- ⚡ **It's a simple life for me: CODE, SKIING, GYM - in no particular order.**
 
 
 **Connect with Me on LinkedIn**
