@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Pablit0x/Pablit0x/assets/76017191/35d5c84c-7ea3-4123-8c62-fe26f9ae735d">
+  <img src="https://github.com/Pablit0x/Pablit0x/assets/76017191/31a08f4d-d4a8-4c83-a9da-074fd582ab4a">
     <h1>Hi 👋, I'm Paweł</h1>
 </div>
 
