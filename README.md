@@ -5,7 +5,7 @@
 
 <h3 align="center">Android Developer</h3>
 
-- 🔭 I’m currently working on [Dimensional Feels](https://github.com/Pablit0x/Dimensional-Feels) and [NationExplorer](https://github.com/Pablit0x/FunApp) (Compose Multiplatform Android and iOS project)
+- 🔭 I’m currently working on [NationExplorer](https://github.com/Pablit0x/FunApp) (Compose Multiplatform Android and iOS project)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform (KMP) and Compose Multiplatform**
 
