@@ -3,7 +3,7 @@
     <h1>Hi 👋, I'm Paweł</h1>
 </div>
 
-<h3 align="center">Android Developer</h3>
+<h3 align="center">Android Developer | PSCODE</h3>
 
 - 🔭 I’m currently working on [NationExplorer](https://github.com/Pablit0x/FunApp) (Compose Multiplatform Android and iOS project)
 
