@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **pszymanski.code@gmail.com**
 
-- ⚡ **Living a simple life: FAMILY, SKIING, CODE, GYM - in that order.**
 
 
 **Connect with Me on LinkedIn**
